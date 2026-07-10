@@ -7,6 +7,18 @@
 A complete end-to-end ecommerce analytics project including data cleaning, SQL analysis, dashboard creation, and business insights.
 
 
+## 📌 Project Summary
+
+| Feature | Details |
+|---------|---------|
+| 🗂 Dataset | 5,000 Ecommerce Transactions |
+| 🛠 Tools | Python, MySQL, Power BI |
+| 📊 Dashboard | Interactive Power BI Dashboard |
+| 🧹 Data Cleaning | Completed |
+| 📈 EDA | Exploratory Data Analysis |
+| 💾 SQL Queries | 10+ Business Queries |
+
+
 ## 📌 Project Overview
 
 This project analyzes ecommerce sales data using Python, MySQL, and Power BI to uncover business insights and improve decision-making.
