@@ -218,6 +218,10 @@ You are free to use, modify, and distribute this project for learning purposes.
 
 ---
 
+<p align="center">
 ⭐ If you found this project helpful, consider giving it a Star on GitHub!
+</p>
 
-Made with ❤️ by Ravi Suthar
+<p align="center">
+Made with ❤️ by <b>Ravi Suthar</b>
+</p>
