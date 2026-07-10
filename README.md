@@ -199,6 +199,8 @@ Ecommerce_Sales_Analysis/
 
 **Ravi Suthar**
 
+**Passionate Data Science learner building practical Machine Learning, SQL, and Analytics projects.**
+
 🌐 Portfolio:
 https://ravisuthar-13.github.io/ravi-portfolio/
 
