@@ -87,7 +87,7 @@ Raw Ecommerce Data
 Data Cleaning
         │
         ▼
-Exploratory Data Analysis (EDA)
+Exploratory Data Analysis
         │
         ▼
 SQL Business Analysis
@@ -96,7 +96,7 @@ SQL Business Analysis
 Power BI Dashboard
         │
         ▼
-Business Insights & Reporting
+Business Insights
 ```
 
 ## 🐍 Python Analysis
@@ -150,23 +150,7 @@ The cleaned data was visualized in Power BI to create an interactive business da
 
 The dashboard helps stakeholders quickly monitor business performance and identify opportunities.
 
-
-## 📊 Power BI Dashboard
-
-The cleaned data was visualized in Power BI to create an interactive business dashboard.
-
-### Dashboard Includes
-
-- 📦 Total Orders KPI
-- 💰 Total Sales KPI
-- 📈 Average Order Value
-- 📊 Monthly Sales & Profit Trend
-- 🛍️ Sales by Category
-- 🌍 Profit by Region
-- 💳 Payment Mode Distribution
-
-The dashboard helps stakeholders quickly monitor business performance and identify opportunities.
-
+---
 
 ## 💡 Key Business Insights
 
@@ -176,3 +160,52 @@ The dashboard helps stakeholders quickly monitor business performance and identi
 - 💳 Customer payment methods were almost equally distributed
 - 📦 Category analysis highlighted business opportunities
 - 📊 Dashboard enables faster business decision-making
+
+
+## 📂 Project Structure
+
+```text
+Ecommerce_Sales_Analysis/
+│
+├── Ecommerce_Sales.ipynb
+├── ecommerce_queries.sql
+├── Ecommerce_Sales_Data_2024_2025.xlsx
+├── README.md
+```
+
+
+## 🚀 Future Improvements
+
+- 🌐 Deploy dashboard online
+- 📱 Create interactive web application
+- 📈 Predict future sales using Machine Learning
+- 🤖 Add AI-powered business recommendations
+- ☁️ Connect live ecommerce database
+
+
+## 👨‍💻 Author
+
+**Ravi Suthar**
+
+🌐 Portfolio:
+https://ravisuthar-13.github.io/ravi-portfolio/
+
+💼 LinkedIn:
+https://www.linkedin.com/in/ravi-suthar/
+
+🐙 GitHub:
+https://github.com/ravisuthar-13
+
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this project for learning purposes.
+
+
+---
+
+⭐ If you found this project helpful, consider giving it a Star on GitHub!
+
+Made with ❤️ by Ravi Suthar
