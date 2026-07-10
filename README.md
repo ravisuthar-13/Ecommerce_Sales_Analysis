@@ -1,5 +1,10 @@
-# Ecommerce_Sales_Analysis
-Data analysis project showcasing Ecommerce sales analysis using python, MYSQL and power Bi.
+<p align="center">
+  <img src="cover.png" width="100%">
+</p>
+
+# 🛒 Ecommerce Sales Analysis using Python, MySQL & Power BI
+
+A complete end-to-end ecommerce analytics project including data cleaning, SQL analysis, dashboard creation, and business insights.
 
 
 Overview
