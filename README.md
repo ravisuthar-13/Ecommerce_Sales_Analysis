@@ -77,3 +77,102 @@ The dataset contains ecommerce transactions from 2023–2025 and is used for bus
 - 📍 Regional Performance Analysis
 - 💳 Payment Mode Analysis
 - 📦 Product Performance Analysis
+
+## 🔄 Project Workflow
+
+```text
+Raw Ecommerce Data
+        │
+        ▼
+Data Cleaning
+        │
+        ▼
+Exploratory Data Analysis (EDA)
+        │
+        ▼
+SQL Business Analysis
+        │
+        ▼
+Power BI Dashboard
+        │
+        ▼
+Business Insights & Reporting
+```
+
+## 🐍 Python Analysis
+
+Python was used for complete data preprocessing and exploratory analysis.
+
+### Tasks Performed
+
+- 🧹 Cleaned missing and inconsistent data
+- 📊 Performed Exploratory Data Analysis (EDA)
+- 📈 Analyzed sales and profit trends
+- 📦 Category & Sub-category analysis
+- 🌍 Regional performance analysis
+- 💳 Payment mode analysis
+- 📅 Monthly sales trend analysis
+
+Python helped prepare high-quality data before SQL analysis and Power BI visualization.
+
+
+## 🗄️ SQL Analysis
+
+SQL was used to answer important business questions from the cleaned ecommerce dataset.
+
+### SQL Queries Performed
+
+- 💰 Top 5 customers by spending
+- 🛒 Best-selling product categories
+- 🌍 Regional sales analysis
+- 📈 Monthly revenue trends
+- 💳 Payment mode distribution
+- 📦 Product quantity analysis
+- 📅 Daily sales trends
+- 💹 Profit margin by region
+
+These SQL analyses provided valuable business insights before building the Power BI dashboard.
+
+
+## 📊 Power BI Dashboard
+
+The cleaned data was visualized in Power BI to create an interactive business dashboard.
+
+### Dashboard Includes
+
+- 📦 Total Orders KPI
+- 💰 Total Sales KPI
+- 📈 Average Order Value
+- 📊 Monthly Sales & Profit Trend
+- 🛍️ Sales by Category
+- 🌍 Profit by Region
+- 💳 Payment Mode Distribution
+
+The dashboard helps stakeholders quickly monitor business performance and identify opportunities.
+
+
+## 📊 Power BI Dashboard
+
+The cleaned data was visualized in Power BI to create an interactive business dashboard.
+
+### Dashboard Includes
+
+- 📦 Total Orders KPI
+- 💰 Total Sales KPI
+- 📈 Average Order Value
+- 📊 Monthly Sales & Profit Trend
+- 🛍️ Sales by Category
+- 🌍 Profit by Region
+- 💳 Payment Mode Distribution
+
+The dashboard helps stakeholders quickly monitor business performance and identify opportunities.
+
+
+## 💡 Key Business Insights
+
+- 🏆 Identified top-performing product categories
+- 📈 Sales remained consistent across most months
+- 🌍 Regional performance differences were identified
+- 💳 Customer payment methods were almost equally distributed
+- 📦 Category analysis highlighted business opportunities
+- 📊 Dashboard enables faster business decision-making
